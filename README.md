@@ -2,7 +2,16 @@
 
 <!-- ════════════════════ HEADER ════════════════════ -->
 
+<table>
+<tr>
+<td width="28%" align="center">
+<img src="assets/portrait.svg" width="220" alt="portrait">
+</td>
+<td width="72%" valign="top">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a5f,100:0b1220&height=200&section=header&text=Jonnadula%20Abhiram&fontSize=44&fontColor=e2e8f0&fontAlignY=42&desc=Backend-Focused%20Full-Stack%20Engineer&descSize=16&descColor=94a3b8&descAlignY=62&animation=fadeIn" />
+</td>
+</tr>
+</table>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=720&height=40&lines=Java+%2F+Spring+Boot+%E2%80%A2+MERN+%E2%80%A2+NestJS+%E2%80%A2+Next.js;B.Tech+CSE+%40+VFSTR+(2023-2027);Software+Developer+%40+Technopose;Building+APIs+that+scale%2C+secure%2C+and+ship;Open+to+Internships+%E2%80%A2+Startups+%E2%80%A2+Collaborations" />
@@ -118,6 +127,32 @@ const abhiram = {
 </td>
 </tr>
 </table>
+<br/>
+
+<!-- ════════════════════ RADAR CHARTS ════════════════════ -->
+
+## &nbsp;🎯&nbsp; Skill Radar
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+<img src="assets/radar-dark.svg" width="400" alt="skill radar">
+</picture>
+</td>
+<td width="50%" align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+<img src="assets/radar-langs-dark.svg" width="400" alt="language radar">
+</picture>
+</td>
+</tr>
+</table>
+</div>
 
 <br/>
 
@@ -148,60 +183,39 @@ const abhiram = {
 
 ## &nbsp;🚀&nbsp; Featured Projects
 
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### &nbsp;⚖️ CodeJudgeX
-> Self-hosted online judge platform
-
-`Java` `Spring Boot` `PostgreSQL` `Redis` `RabbitMQ` `Docker`
-
-RBAC access, contest workflows, hidden test cases, and **async Judge0 evaluation** with Redis-backed leaderboards.
-
-<a href="https://github.com/Abhiram1106"><img src="https://img.shields.io/badge/View%20Repo-1e293b?style=flat-square&logo=github&logoColor=fff" /></a>
-
+<td width="33%" align="center">
+<a href="https://github.com/Abhiram1106/CodeJudgeX">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-CodeJudgeX-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-CodeJudgeX-light.svg">
+<img src="assets/card-CodeJudgeX-dark.svg" width="380" alt="CodeJudgeX">
+</picture>
+</a>
 </td>
-<td width="50%" valign="top">
-
-#### &nbsp;🏥 SmartCare+
-> Healthcare management platform
-
-`Node.js` `Express` `MongoDB` `React` `Socket.io` `JWT`
-
-RBAC dashboards for 3 roles, **15+ secured APIs** (JWT + bcrypt), real-time messaging & on-device AI triage.
-
-<a href="https://github.com/Abhiram1106/SmartCare-Plus"><img src="https://img.shields.io/badge/View%20Repo-1e293b?style=flat-square&logo=github&logoColor=fff" /></a>
-
+<td width="33%" align="center">
+<a href="https://github.com/Abhiram1106/SmartCare-Plus">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-SmartCare-Plus-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-SmartCare-Plus-light.svg">
+<img src="assets/card-SmartCare-Plus-dark.svg" width="380" alt="SmartCare-Plus">
+</picture>
+</a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### &nbsp;🧠 Sentiment Analysis Platform
-> Ensemble NLP at scale
-
-`FastAPI` `PyTorch` `DistilBERT` `RoBERTa`
-
-**98% accuracy** via ensemble model; async pipelines process up to 10K CSV/XLSX rows per job.
-
-<a href="https://github.com/Abhiram1106"><img src="https://img.shields.io/badge/View%20Repo-1e293b?style=flat-square&logo=github&logoColor=fff" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### &nbsp;🎯 CareerOS
-> AI career intelligence platform
-
-`Next.js` `FastAPI` `PostgreSQL` `Redis` `Celery`
-
-ATS resume scoring across 6 dimensions, TF-IDF job matching, PDF export & Redis-backed async queues.
-
-<a href="https://github.com/Abhiram1106"><img src="https://img.shields.io/badge/View%20Repo-1e293b?style=flat-square&logo=github&logoColor=fff" /></a>
-
+<td width="33%" align="center">
+<a href="https://github.com/Abhiram1106/CareerOS">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-CareerOS-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-CareerOS-light.svg">
+<img src="assets/card-CareerOS-dark.svg" width="380" alt="CareerOS">
+</picture>
+</a>
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
@@ -210,18 +224,11 @@ ATS resume scoring across 6 dimensions, TF-IDF job matching, PDF export & Redis-
 ## &nbsp;📊&nbsp; GitHub Analytics
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abhiram1106&show_icons=true&hide_border=true&bg_color=0f172a&title_color=f97316&icon_color=f97316&text_color=94a3b8&count_private=true&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram1106&layout=compact&hide_border=true&bg_color=0f172a&title_color=f97316&text_color=94a3b8&langs_count=8" />
-
-<br/>
-
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiram1106&hide_border=true&background=0f172a&stroke=1e293b&ring=f97316&fire=f97316&currStreakLabel=f97316&sideLabels=94a3b8&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhiram1106&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+<img src="assets/card-stats-dark.svg" width="500" alt="github stats">
+</picture>
 </div>
 
 <br/>
