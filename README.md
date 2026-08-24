@@ -24,28 +24,14 @@
 
 <!-- ════════════════════ ABOUT ME ════════════════════ -->
 
-## &nbsp;👋&nbsp; About Me
-
-**🎯 Role**
-Software Engineer
-
-**📍 Location**
-Andhra Pradesh, India 🇮🇳
-
-**🔨 Currently**
-Building Vizag Forever @ Technopose
-
-**🧠 Focus**
-Learning new concepts — System Design, AWS, and scalable application building
-
-**🎯 Open to**
-Full-time & Internship roles — graduating 2027
+<div align="center">
+<img src="assets/about-card.svg" width="640" alt="about me">
+</div>
 
 <br/>
 
 <div align="center">
 
-<!-- stat badges: plain inline row, wraps naturally on narrow screens -->
 <img src="https://img.shields.io/badge/🛠️-Actively%20Building-f97316?style=for-the-badge&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/10%2B-Technologies-3b82f6?style=for-the-badge&labelColor=0f172a" />
 <img src="https://img.shields.io/badge/3-Hackathon%20Awards-eab308?style=for-the-badge&labelColor=0f172a" />
@@ -78,7 +64,7 @@ Full-time & Internship roles — graduating 2027
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="38" />
 </p>
 <p>
-<img src="https://img.shields.io/badge/REST-1e293b?style=flat-square&logo=postman&logoColor=f97316" />
+<img src="https://img.shields.io/badge/REST-1e293b?style=flat-square&logo=swagger&logoColor=85EA2D" />
 <img src="https://img.shields.io/badge/JWT-1e293b?style=flat-square&logo=jsonwebtokens&logoColor=fff" />
 </p>
 
@@ -97,7 +83,7 @@ Full-time & Internship roles — graduating 2027
 
 #### &nbsp;Concepts
 <p>
-<img src="https://img.shields.io/badge/OOP-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
+<img src="https://img.shields.io/badge/🧩_OOP-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
 <img src="https://img.shields.io/badge/CI%2FCD-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF" />
 <img src="https://img.shields.io/badge/Agile%2FScrum-1e293b?style=flat-square&logo=jira&logoColor=0052CC" />
 </p>
@@ -110,7 +96,7 @@ Full-time & Internship roles — graduating 2027
 #### &nbsp;🌱 Currently Exploring
 <p>
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="38" />
-<img src="https://img.shields.io/badge/System%20Design-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
+<img src="https://img.shields.io/badge/🏗️_System_Design-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
 </p>
 
 </td>
@@ -184,6 +170,7 @@ Full-time & Internship roles — graduating 2027
 <source media="(prefers-color-scheme: light)" srcset="assets/card-SmartCare-Plus-light.svg">
 <img src="assets/card-SmartCare-Plus-dark.svg" width="100%" alt="SmartCare-Plus">
 </picture>
+</a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/Abhiram1106/CareerOS">
