@@ -2,16 +2,7 @@
 
 <!-- ════════════════════ HEADER ════════════════════ -->
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="28%" align="center">
-<img src="assets/portrait-framed.svg" width="260" alt="portrait">
-</td>
-<td width="72%" valign="top" align="center">
 <img src="assets/banner.png" width="100%" alt="Jonnadula Abhiram">
-</td>
-</tr>
-</table>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=720&height=40&lines=Java+%2F+MERN+Stack+%E2%80%A2+MySQL+%2F+MongoDB;B.Tech+CSE+%40+VFSTR+(2023-2027);Software+Development+Intern+%40+Technopose;Learning+AWS+%2B+System+Design;Open+to+Software+Engineer+Roles+(2027+Grad)" />
@@ -54,22 +45,11 @@ Full-time & Internship roles — graduating 2027
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🛠️-Actively%20Building-f97316?style=for-the-badge&labelColor=0f172a" /><br/>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/10%2B-Technologies-3b82f6?style=for-the-badge&labelColor=0f172a" /><br/>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/3-Hackathon%20Awards-eab308?style=for-the-badge&labelColor=0f172a" /><br/>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/2027-Graduating-4ade80?style=for-the-badge&labelColor=0f172a" /><br/>
-</td>
-</tr>
-</table>
+<!-- stat badges: plain inline row, wraps naturally on narrow screens -->
+<img src="https://img.shields.io/badge/🛠️-Actively%20Building-f97316?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/10%2B-Technologies-3b82f6?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/3-Hackathon%20Awards-eab308?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/2027-Graduating-4ade80?style=for-the-badge&labelColor=0f172a" />
 
 </div>
 
@@ -150,14 +130,14 @@ Full-time & Internship roles — graduating 2027
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-<img src="assets/radar-dark.svg" width="400" alt="skill radar">
+<img src="assets/radar-dark.svg" width="100%" alt="skill radar">
 </picture>
 </td>
 <td width="50%" align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-<img src="assets/radar-langs-dark.svg" width="400" alt="language radar">
+<img src="assets/radar-langs-dark.svg" width="100%" alt="language radar">
 </picture>
 </td>
 </tr>
@@ -202,16 +182,15 @@ Full-time & Internship roles — graduating 2027
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/card-SmartCare-Plus-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/card-SmartCare-Plus-light.svg">
-<img src="assets/card-SmartCare-Plus-dark.svg" width="420" alt="SmartCare-Plus">
+<img src="assets/card-SmartCare-Plus-dark.svg" width="100%" alt="SmartCare-Plus">
 </picture>
-</a>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/Abhiram1106/CareerOS">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/card-CareerOS-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/card-CareerOS-light.svg">
-<img src="assets/card-CareerOS-dark.svg" width="420" alt="CareerOS">
+<img src="assets/card-CareerOS-dark.svg" width="100%" alt="CareerOS">
 </picture>
 </a>
 </td>
@@ -237,7 +216,7 @@ Full-time & Internship roles — graduating 2027
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-<img src="assets/card-stats-dark.svg" width="500" alt="github stats">
+<img src="assets/card-stats-dark.svg" width="100%" style="max-width:500px" alt="github stats">
 </picture>
 
 <br/><br/>
