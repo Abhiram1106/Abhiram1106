@@ -89,14 +89,6 @@ const abhiram = {
 
 <br/>
 
-<!-- ════════════════════ ACHIEVEMENTS ════════════════════ -->
-
-<div align="center">
-<img src="assets/metrics.achievements.svg" alt="achievements">
-</div>
-
-<br/>
-
 <!-- ════════════════════ TECH STACK ════════════════════ -->
 
 ## &nbsp;⚙️&nbsp; Tech Stack
