@@ -22,11 +22,13 @@
 
 <br/>
 
-<!-- ════════════════════ TECH STACK (no table, full-width stacked rows) ════════════════════ -->
+<!-- ════════════════════ TECH STACK ════════════════════ -->
 
 ## &nbsp;⚙️&nbsp; Tech Stack
 
-<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
 **Languages**
 <br/>
@@ -53,7 +55,8 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="45" />
 
-<br/><br/>
+</td>
+<td width="50%" align="center" valign="top">
 
 **Tools**
 <br/>
@@ -80,7 +83,9 @@
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" />
 <img src="https://img.shields.io/badge/🏗️_System_Design-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
