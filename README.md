@@ -7,8 +7,8 @@
 <td width="28%" align="center">
 <img src="assets/portrait-framed.svg" width="260" alt="portrait">
 </td>
-<td width="72%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a5f,100:0b1220&height=200&section=header&text=Jonnadula%20Abhiram&fontSize=44&fontColor=e2e8f0&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20B.Tech%20CSE%20%272027&descSize=16&descColor=94a3b8&descAlignY=62&animation=fadeIn" />
+<td width="72%" valign="top" align="center">
+<img src="assets/banner.png" width="100%" alt="Jonnadula Abhiram">
 </td>
 </tr>
 </table>
@@ -33,14 +33,16 @@
 
 <!-- ════════════════════ SNAKE ════════════════════ -->
 
-## &nbsp;🐍&nbsp; Contribution Snake
-
 <img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-dark.svg#gh-dark-mode-only" width="100%">
 <img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-light.svg#gh-light-mode-only" width="100%">
 
 <br/>
 
-<!-- ════════════════════ ABOUT ════════════════════ -->
+<!-- ════════════════════ ABOUT + CALENDAR (side by side) ════════════════════ -->
+
+<table>
+<tr>
+<td width="42%" valign="top">
 
 ```typescript
 const abhiram = {
@@ -52,6 +54,13 @@ const abhiram = {
   openTo: ["Software Engineer Roles — full-time, graduating 2027"],
 };
 ```
+
+</td>
+<td width="58%" valign="top" align="center">
+<img src="assets/metrics.isocalendar.svg" width="100%" alt="contribution calendar">
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -80,15 +89,9 @@ const abhiram = {
 
 <br/>
 
-<!-- ════════════════════ CONTRIBUTION CALENDAR ════════════════════ -->
-
-## &nbsp;📅&nbsp; Contribution Calendar
+<!-- ════════════════════ ACHIEVEMENTS ════════════════════ -->
 
 <div align="center">
-<img src="assets/metrics.isocalendar.svg" width="100%" alt="contribution calendar">
-
-<br/><br/>
-
 <img src="assets/metrics.achievements.svg" alt="achievements">
 </div>
 
@@ -297,7 +300,5 @@ const abhiram = {
 
 <a href="https://linkedin.com/in/abhiram-jonnadula"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abhiram.j2006@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0b1220,100:1e3a5f&height=110&section=footer" />
 
 </div>
