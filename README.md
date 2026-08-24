@@ -38,25 +38,34 @@
 
 <br/>
 
-<!-- ════════════════════ ABOUT + CALENDAR (side by side) ════════════════════ -->
+<!-- ════════════════════ ABOUT + CALENDAR (30/70 split) ════════════════════ -->
 
 <table>
 <tr>
-<td width="42%" valign="top">
+<td width="30%" valign="top">
 
-```typescript
-const abhiram = {
-  role: "Full-Stack Developer (Java + MERN)",
-  location: "Andhra Pradesh, India 🇮🇳",
-  currently: "Building Vizag Forever @ Technopose (React Native + NestJS)",
-  focus: ["REST APIs", "Auth Systems", "DSA on LeetCode"],
-  learning: ["AWS (EC2, S3)", "System Design fundamentals"],
-  openTo: ["Software Engineer Roles — full-time, graduating 2027"],
-};
-```
+#### &nbsp;👋 About Me
+
+**🎯 Role**
+Full-Stack Developer (Java + MERN)
+
+**📍 Location**
+Andhra Pradesh, India 🇮🇳
+
+**🔨 Currently**
+Building Vizag Forever @ Technopose
+
+**🧠 Focus**
+REST APIs · Auth Systems · DSA
+
+**🌱 Learning**
+AWS (EC2, S3) · System Design
+
+**🎯 Open to**
+Software Engineer roles — full-time, graduating 2027
 
 </td>
-<td width="58%" valign="top" align="center">
+<td width="70%" valign="top" align="center">
 <img src="assets/metrics.isocalendar.svg" width="100%" alt="contribution calendar">
 </td>
 </tr>
