@@ -8,13 +8,13 @@
 <img src="assets/portrait.svg" width="220" alt="portrait">
 </td>
 <td width="72%" valign="top">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a5f,100:0b1220&height=200&section=header&text=Jonnadula%20Abhiram&fontSize=44&fontColor=e2e8f0&fontAlignY=42&desc=Backend-Focused%20Full-Stack%20Engineer&descSize=16&descColor=94a3b8&descAlignY=62&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a5f,100:0b1220&height=200&section=header&text=Jonnadula%20Abhiram&fontSize=44&fontColor=e2e8f0&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20B.Tech%20CSE%20%272027&descSize=16&descColor=94a3b8&descAlignY=62&animation=fadeIn" />
 </td>
 </tr>
 </table>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=720&height=40&lines=Java+%2F+Spring+Boot+%E2%80%A2+MERN+%E2%80%A2+NestJS+%E2%80%A2+Next.js;B.Tech+CSE+%40+VFSTR+(2023-2027);Software+Developer+%40+Technopose;Building+APIs+that+scale%2C+secure%2C+and+ship;Open+to+Internships+%E2%80%A2+Startups+%E2%80%A2+Collaborations" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=720&height=40&lines=Java+%2F+MERN+Stack+%E2%80%A2+MySQL+%2F+MongoDB;B.Tech+CSE+%40+VFSTR+(2023-2027);Software+Development+Intern+%40+Technopose;Learning+AWS+%2B+System+Design;Open+to+Software+Engineer+Roles+(2027+Grad)" />
 </a>
 
 <br/>
@@ -35,12 +35,12 @@
 
 ```typescript
 const abhiram = {
-  role: "Full-Stack Developer (Backend-First)",
+  role: "Full-Stack Developer (Java + MERN)",
   location: "Andhra Pradesh, India 🇮🇳",
-  currently: "Shipping production apps @ Technopose",
-  focus: ["Scalable REST APIs", "Auth Systems", "Clean Architecture"],
-  philosophy: "fast under load · secure by default · maintainable at scale",
-  openTo: ["Internships", "Startup Roles", "Open-Source Collabs"],
+  currently: "Building Vizag Forever @ Technopose (React Native + NestJS)",
+  focus: ["REST APIs", "Auth Systems", "DSA on LeetCode"],
+  learning: ["AWS (EC2, S3)", "System Design fundamentals"],
+  openTo: ["Software Engineer Roles — full-time, graduating 2027"],
 };
 ```
 
@@ -53,10 +53,10 @@ const abhiram = {
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/9%2B-Projects%20Shipped-f97316?style=for-the-badge&labelColor=0f172a" /><br/>
+  <img src="https://img.shields.io/badge/🛠️-Actively%20Building-f97316?style=for-the-badge&labelColor=0f172a" /><br/>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.shields.io/badge/20%2B-Technologies-3b82f6?style=for-the-badge&labelColor=0f172a" /><br/>
+  <img src="https://img.shields.io/badge/10%2B-Technologies-3b82f6?style=for-the-badge&labelColor=0f172a" /><br/>
 </td>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/3-Hackathon%20Awards-eab308?style=for-the-badge&labelColor=0f172a" /><br/>
@@ -81,52 +81,58 @@ const abhiram = {
 
 #### &nbsp;Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,c&theme=dark" height="38" />
-<img src="https://img.shields.io/badge/SQL-1e293b?style=flat-square&logo=postgresql&logoColor=60a5fa" height="29" />
-</p>
-
-#### &nbsp;Backend
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,express,fastapi&theme=dark" height="38" />
-</p>
-<p>
-<img src="https://img.shields.io/badge/REST-1e293b?style=flat-square&logo=postman&logoColor=f97316" />
-<img src="https://img.shields.io/badge/JWT-1e293b?style=flat-square&logo=jsonwebtokens&logoColor=fff" />
-<img src="https://img.shields.io/badge/WebSockets-1e293b?style=flat-square&logo=socketdotio&logoColor=fff" />
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" height="38" />
 </p>
 
 #### &nbsp;Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,html,css&theme=dark" height="38" />
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="38" />
+</p>
+
+#### &nbsp;Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="38" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/REST-1e293b?style=flat-square&logo=postman&logoColor=f97316" />
+<img src="https://img.shields.io/badge/JWT-1e293b?style=flat-square&logo=jsonwebtokens&logoColor=fff" />
+</p>
+
+#### &nbsp;Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="38" />
 </p>
 
 </td>
 <td valign="top" width="50%">
 
-#### &nbsp;Databases & Cache
+#### &nbsp;Tools
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase&theme=dark" height="38" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" height="38" />
 </p>
 
-#### &nbsp;AI / ML
+#### &nbsp;Concepts
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="38" />
-<img src="https://img.shields.io/badge/HuggingFace-1e293b?style=flat-square&logo=huggingface&logoColor=eab308" height="29" />
+<img src="https://img.shields.io/badge/OOP-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
+<img src="https://img.shields.io/badge/CI%2FCD-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/Agile%2FScrum-1e293b?style=flat-square&logo=jira&logoColor=0052CC" />
 </p>
 
-#### &nbsp;DevOps & Tools
+#### &nbsp;Used at Technopose (internship)
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,rabbitmq,postman&theme=dark" height="38" />
+<img src="https://skillicons.dev/icons?i=nestjs,postgres,redis,typescript&theme=dark" height="38" />
 </p>
+
+#### &nbsp;🌱 Currently Exploring
 <p>
-<img src="https://img.shields.io/badge/GitHub%20Actions-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/Swagger-1e293b?style=flat-square&logo=swagger&logoColor=85EA2D" />
-<img src="https://img.shields.io/badge/Agile-1e293b?style=flat-square&logo=jira&logoColor=0052CC" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="38" />
+<img src="https://img.shields.io/badge/System%20Design-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
 </p>
 
 </td>
 </tr>
 </table>
+
 <br/>
 
 <!-- ════════════════════ RADAR CHARTS ════════════════════ -->
@@ -164,14 +170,15 @@ const abhiram = {
 <tr>
 <td width="180" valign="top">
   <img src="https://img.shields.io/badge/Mar%202026-Present-f97316?style=flat-square&labelColor=0f172a" /><br/>
-  <sub><b>Technopose</b></sub>
+  <sub><b>Technopose</b></sub><br/>
+  <sub><i>early-stage startup</i></sub>
 </td>
 <td valign="top">
-  <b>Software Developer (Full Stack)</b> &nbsp;·&nbsp; <i>Live product: Vizag Forever app</i>
+  <b>Software Development Intern (Part-time)</b> &nbsp;·&nbsp; <i>Live product: Vizag Forever</i>
   <ul>
-    <li>Built & maintained REST APIs with <b>NestJS, PostgreSQL/TypeORM, JWT</b> + Swagger docs</li>
-    <li>Converted Figma designs into responsive <b>React / React Native</b> screens</li>
-    <li>Owned delivery end-to-end — design → implementation → production support</li>
+    <li>Built and shipped core product features for <b>Vizag Forever</b>, a consumer app live on the Play Store, using <b>React Native</b> on a shared TypeScript codebase</li>
+    <li>Developed backend features on a <b>Node.js / NestJS</b> stack integrating <b>PostgreSQL (AWS RDS)</b> and <b>Redis</b> caching, with endpoints documented via Swagger</li>
+    <li>Collaborated with designers, engineers, and product in an <b>Agile/Scrum</b> team — bug triage, CI/CD pipelines (GitHub Actions), and release cycles</li>
   </ul>
 </td>
 </tr>
@@ -186,36 +193,35 @@ const abhiram = {
 <div align="center">
 <table>
 <tr>
-<td width="33%" align="center">
-<a href="https://github.com/Abhiram1106/CodeJudgeX">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/card-CodeJudgeX-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="assets/card-CodeJudgeX-light.svg">
-<img src="assets/card-CodeJudgeX-dark.svg" width="380" alt="CodeJudgeX">
-</picture>
-</a>
-</td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <a href="https://github.com/Abhiram1106/SmartCare-Plus">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/card-SmartCare-Plus-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/card-SmartCare-Plus-light.svg">
-<img src="assets/card-SmartCare-Plus-dark.svg" width="380" alt="SmartCare-Plus">
+<img src="assets/card-SmartCare-Plus-dark.svg" width="420" alt="SmartCare-Plus">
 </picture>
 </a>
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 <a href="https://github.com/Abhiram1106/CareerOS">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/card-CareerOS-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/card-CareerOS-light.svg">
-<img src="assets/card-CareerOS-dark.svg" width="380" alt="CareerOS">
+<img src="assets/card-CareerOS-dark.svg" width="420" alt="CareerOS">
 </picture>
 </a>
 </td>
 </tr>
 </table>
 </div>
+
+<sub>
+
+**SmartCare Plus** — Healthcare management platform (React, Node.js, Express, MongoDB, Socket.io, JWT). Role-scoped Admin/Doctor/Patient dashboards, JWT + RBAC, live appointment updates via Socket.io, flexible specialty-specific patient record schemas.
+
+**CareerOS** — Resume-to-job matching platform (React, Node.js, Express, MongoDB, JWT). Parses resumes and job descriptions to generate a match score and missing-skills list, with REST APIs handling uploads, parsing, and scoring.
+
+</sub>
 
 <br/>
 
@@ -242,16 +248,15 @@ const abhiram = {
 <td valign="top" width="50%">
 
 **🎖️ Achievements**
-- 🥇 **Finalist** — HackXlerate 2025, byteXL National (top finalists / 1000+)
-- 🥈 **2nd Place** — VFSTR Project Expo 2024
-- 🏅 **Semi-Finalist** — Amaravathi Quantum Valley Hackathon
+- 🥇 **Finalist** — HackXlerate 2025, byteXL National Hackathon at T-Hub Hyderabad
+- 🥈 **2nd Place** — VFSTR Project Expo 2024, Full-Stack Development Track
+- 🏅 **Semi-Finalist** — Amaravathi Quantum Valley Hackathon, Govt. of Andhra Pradesh
 
 </td>
 <td valign="top" width="50%">
 
 **📜 Certifications**
-- 📘 DBMS — NPTEL, IIT Kharagpur
-- 🔐 Qualys Certified Specialist — Vulnerability Management
+- 📘 Database Management Systems — NPTEL, IIT Kharagpur
 - 🌐 Cambridge English B1 Preliminary
 - 🐙 GitHub Foundations
 

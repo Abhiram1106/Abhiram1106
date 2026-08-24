@@ -1,7 +1,5 @@
 {
   "projects": [
-    { "repo": "CodeJudgeX",
-      "description": "Self-hosted online judge platform with RBAC access, contest workflows, and async Judge0 evaluation backed by Redis leaderboards." },
     { "repo": "SmartCare-Plus",
       "description": "Healthcare management platform with role-based dashboards, 15+ secured APIs, real-time messaging, and on-device AI triage." },
     { "repo": "CareerOS",
