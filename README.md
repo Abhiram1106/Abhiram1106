@@ -26,66 +26,7 @@
 
 ## &nbsp;⚙️&nbsp; Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js&theme=dark" height="45" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="45" />
-
-<br/><br/>
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="45" />
-<br/>
-<img src="https://img.shields.io/badge/REST-1e293b?style=flat-square&logo=swagger&logoColor=85EA2D" />
-<img src="https://img.shields.io/badge/JWT-1e293b?style=flat-square&logo=jsonwebtokens&logoColor=fff" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="45" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" height="45" />
-
-<br/><br/>
-
-**Concepts**
-<br/>
-<img src="https://img.shields.io/badge/🧩_OOP-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
-<img src="https://img.shields.io/badge/CI%2FCD-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/Agile%2FScrum-1e293b?style=flat-square&logo=jira&logoColor=0052CC" />
-
-<br/><br/>
-
-**Used at Technopose (internship)**
-<br/>
-<img src="https://skillicons.dev/icons?i=nestjs,postgres,redis,typescript&theme=dark" height="45" />
-
-<br/><br/>
-
-**🌱 Currently Exploring**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" />
-<img src="https://img.shields.io/badge/🏗️_System_Design-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
-
-</td>
-</tr>
-</table>
+<img src="assets/techstack.png" width="100%" alt="Jonnadula Abhiram">
 
 <br/>
 
