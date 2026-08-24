@@ -22,32 +22,13 @@
 
 <br/>
 
-<!-- ════════════════════ ABOUT ME ════════════════════ -->
-
-<div align="center">
-<img src="assets/about-card.svg" width="640" alt="about me">
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🛠️-Actively%20Building-f97316?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/10%2B-Technologies-3b82f6?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/3-Hackathon%20Awards-eab308?style=for-the-badge&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/2027-Graduating-4ade80?style=for-the-badge&labelColor=0f172a" />
-
-</div>
-
-<br/>
-
 <!-- ════════════════════ TECH STACK ════════════════════ -->
 
 ## &nbsp;⚙️&nbsp; Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 #### &nbsp;Languages
 <p>
@@ -74,7 +55,7 @@
 </p>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 #### &nbsp;Tools
 <p>
@@ -110,7 +91,7 @@
 ## &nbsp;🎯&nbsp; Skill Radar
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="50%" align="center">
 <picture>
@@ -136,7 +117,7 @@
 
 ## &nbsp;💼&nbsp; Experience
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="180" valign="top">
   <img src="https://img.shields.io/badge/Mar%202026-Present-f97316?style=flat-square&labelColor=0f172a" /><br/>
@@ -161,7 +142,7 @@
 ## &nbsp;🚀&nbsp; Featured Projects
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Abhiram1106/SmartCare-Plus">
@@ -184,14 +165,6 @@
 </tr>
 </table>
 </div>
-
-<sub>
-
-**SmartCare Plus** — Healthcare management platform (React, Node.js, Express, MongoDB, Socket.io, JWT). Role-scoped Admin/Doctor/Patient dashboards, JWT + RBAC, live appointment updates via Socket.io, flexible specialty-specific patient record schemas.
-
-**CareerOS** — Resume-to-job matching platform (React, Node.js, Express, MongoDB, JWT). Parses resumes and job descriptions to generate a match score and missing-skills list, with REST APIs handling uploads, parsing, and scoring.
-
-</sub>
 
 <br/>
 
@@ -222,7 +195,7 @@
 
 ## &nbsp;🏆&nbsp; Recognition & Certifications
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td valign="top" width="50%">
 
