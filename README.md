@@ -2,7 +2,7 @@
 
 <!-- ════════════════════ HEADER ════════════════════ -->
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="28%" align="center">
 <img src="assets/portrait-framed.svg" width="260" alt="portrait">
@@ -31,23 +31,12 @@
 
 <br/>
 
-<!-- ════════════════════ SNAKE ════════════════════ -->
+<!-- ════════════════════ ABOUT ME ════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-dark.svg#gh-dark-mode-only" width="100%">
-<img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-light.svg#gh-light-mode-only" width="100%">
-
-<br/>
-
-<!-- ════════════════════ ABOUT + CALENDAR (30/70 split) ════════════════════ -->
-
-<table>
-<tr>
-<td width="30%" valign="top">
-
-#### &nbsp;👋 About Me
+## &nbsp;👋&nbsp; About Me
 
 **🎯 Role**
-Full-Stack Developer (Java + MERN)
+Software Engineer
 
 **📍 Location**
 Andhra Pradesh, India 🇮🇳
@@ -56,28 +45,16 @@ Andhra Pradesh, India 🇮🇳
 Building Vizag Forever @ Technopose
 
 **🧠 Focus**
-REST APIs · Auth Systems · DSA
-
-**🌱 Learning**
-AWS (EC2, S3) · System Design
+Learning new concepts — System Design, AWS, and scalable application building
 
 **🎯 Open to**
-Software Engineer roles — full-time, graduating 2027
-
-</td>
-<td width="70%" valign="top" align="center">
-<img src="assets/metrics.isocalendar.svg" width="100%" alt="contribution calendar">
-</td>
-</tr>
-</table>
+Full-time & Internship roles — graduating 2027
 
 <br/>
 
 <div align="center">
 
-<!-- ════════════════════ STAT CARDS ════════════════════ -->
-
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" width="25%">
   <img src="https://img.shields.io/badge/🛠️-Actively%20Building-f97316?style=for-the-badge&labelColor=0f172a" /><br/>
@@ -102,7 +79,7 @@ Software Engineer roles — full-time, graduating 2027
 
 ## &nbsp;⚙️&nbsp; Tech Stack
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
 
@@ -167,7 +144,7 @@ Software Engineer roles — full-time, graduating 2027
 ## &nbsp;🎯&nbsp; Skill Radar
 
 <div align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" align="center">
 <picture>
@@ -193,7 +170,7 @@ Software Engineer roles — full-time, graduating 2027
 
 ## &nbsp;💼&nbsp; Experience
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="180" valign="top">
   <img src="https://img.shields.io/badge/Mar%202026-Present-f97316?style=flat-square&labelColor=0f172a" /><br/>
@@ -218,7 +195,7 @@ Software Engineer roles — full-time, graduating 2027
 ## &nbsp;🚀&nbsp; Featured Projects
 
 <div align="center">
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/Abhiram1106/SmartCare-Plus">
@@ -252,9 +229,9 @@ Software Engineer roles — full-time, graduating 2027
 
 <br/>
 
-<!-- ════════════════════ ANALYTICS ════════════════════ -->
+<!-- ════════════════════ GITHUB ACTIVITY ════════════════════ -->
 
-## &nbsp;📊&nbsp; GitHub Analytics
+## &nbsp;📊&nbsp; GitHub Activity
 
 <div align="center">
 <picture>
@@ -262,6 +239,15 @@ Software Engineer roles — full-time, graduating 2027
 <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
 <img src="assets/card-stats-dark.svg" width="500" alt="github stats">
 </picture>
+
+<br/><br/>
+
+<img src="assets/metrics.isocalendar.svg" width="100%" alt="contribution calendar">
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-dark.svg#gh-dark-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-light.svg#gh-light-mode-only" width="100%">
 </div>
 
 <br/>
@@ -270,7 +256,7 @@ Software Engineer roles — full-time, graduating 2027
 
 ## &nbsp;🏆&nbsp; Recognition & Certifications
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
 

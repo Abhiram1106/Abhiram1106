@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-frame_portrait.py - wraps assets/portrait.svg in a padded frame with an
-animated dashed border. Embeds the portrait as a base64 data URI so the
-result is fully self-contained (required for GitHub's image proxy, which
-breaks relative references to sibling files).
+frame_portrait.py - wraps assets/portrait.svg in a padded frame with a solid
+dark backing and an animated dashed border. The solid backing makes the card
+look identical whether the viewer's GitHub theme is light or dark - it's a
+fixed card, not something that adapts to the page.
 
 Usage:
     python scripts/frame_portrait.py --src assets/portrait.svg --out assets/portrait-framed.svg
@@ -25,6 +25,7 @@ def main():
     ap.add_argument("--src", default="assets/portrait.svg")
     ap.add_argument("--out", default="assets/portrait-framed.svg")
     ap.add_argument("--padding", type=float, default=28)
+    ap.add_argument("--bg", default="#0b1220", help="solid backing color, hex")
     ap.add_argument("--color", default="#F97316", help="border accent color, hex")
     ap.add_argument("--radius", type=float, default=18, help="corner radius")
     ap.add_argument("--duration", default="6s", help="one full dash-rotation cycle")
@@ -50,6 +51,8 @@ def main():
       <rect x="0" y="0" width="{total_w}" height="{total_h}" rx="{args.radius + 6}" />
     </clipPath>
   </defs>
+
+  <rect x="0" y="0" width="{total_w}" height="{total_h}" rx="{args.radius + 6}" fill="{args.bg}" />
 
   <image href="{data_uri}" x="{pad}" y="{pad}" width="{w}" height="{h}" clip-path="url(#roundedFrame)" />
 
