@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
 frame_portrait.py - wraps assets/portrait.svg in a padded frame with an
-animated dashed border (SMIL animation, renders natively on GitHub).
+animated dashed border. Embeds the portrait as a base64 data URI so the
+result is fully self-contained (required for GitHub's image proxy, which
+breaks relative references to sibling files).
 
 Usage:
     python scripts/frame_portrait.py --src assets/portrait.svg --out assets/portrait-framed.svg
 """
 import argparse
+import base64
 import re
 
 def get_wh(svg_text):
@@ -27,10 +30,15 @@ def main():
     ap.add_argument("--duration", default="6s", help="one full dash-rotation cycle")
     args = ap.parse_args()
 
-    with open(args.src, "r", encoding="utf-8") as f:
-        src_text = f.read()
+    with open(args.src, "rb") as f:
+        src_bytes = f.read()
 
+    src_text = src_bytes.decode("utf-8")
     w, h = get_wh(src_text)
+
+    b64 = base64.b64encode(src_bytes).decode("ascii")
+    data_uri = f"data:image/svg+xml;base64,{b64}"
+
     pad = args.padding
     total_w = w + pad * 2
     total_h = h + pad * 2
@@ -43,7 +51,7 @@ def main():
     </clipPath>
   </defs>
 
-  <image href="{args.src.split('/')[-1]}" x="{pad}" y="{pad}" width="{w}" height="{h}" clip-path="url(#roundedFrame)" />
+  <image href="{data_uri}" x="{pad}" y="{pad}" width="{w}" height="{h}" clip-path="url(#roundedFrame)" />
 
   <rect x="2" y="2" width="{total_w - 4}" height="{total_h - 4}" rx="{args.radius}"
         fill="none" stroke="{args.color}" stroke-width="3"
@@ -56,7 +64,8 @@ def main():
     with open(args.out, "w", encoding="utf-8") as f:
         f.write(framed)
 
-    print(f"wrote {args.out}  ({total_w:.0f}x{total_h:.0f}, padding={pad:.0f}px)")
+    out_kb = len(framed.encode("utf-8")) / 1024
+    print(f"wrote {args.out}  ({total_w:.0f}x{total_h:.0f}, padding={pad:.0f}px, {out_kb:.0f} KB)")
 
 if __name__ == "__main__":
     main()
