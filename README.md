@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="28%" align="center">
-<img src="assets/portrait.svg" width="220" alt="portrait">
+<img src="assets/portrait-framed.svg" width="260" alt="portrait">
 </td>
 <td width="72%" valign="top">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e3a5f,100:0b1220&height=200&section=header&text=Jonnadula%20Abhiram&fontSize=44&fontColor=e2e8f0&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20B.Tech%20CSE%20%272027&descSize=16&descColor=94a3b8&descAlignY=62&animation=fadeIn" />
@@ -28,6 +28,15 @@
 <img src="https://komarev.com/ghpvc/?username=Abhiram1106&color=1e3a5f&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
+
+<br/>
+
+<!-- ════════════════════ SNAKE ════════════════════ -->
+
+## &nbsp;🐍&nbsp; Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-dark.svg#gh-dark-mode-only" width="100%">
+<img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-light.svg#gh-light-mode-only" width="100%">
 
 <br/>
 
@@ -67,6 +76,20 @@ const abhiram = {
 </tr>
 </table>
 
+</div>
+
+<br/>
+
+<!-- ════════════════════ CONTRIBUTION CALENDAR ════════════════════ -->
+
+## &nbsp;📅&nbsp; Contribution Calendar
+
+<div align="center">
+<img src="assets/metrics.isocalendar.svg" width="100%" alt="contribution calendar">
+
+<br/><br/>
+
+<img src="assets/metrics.achievements.svg" alt="achievements">
 </div>
 
 <br/>

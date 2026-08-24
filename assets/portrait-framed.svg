@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1072.0 1322.0" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="roundedFrame">
+      <rect x="0" y="0" width="1072.0" height="1322.0" rx="24" />
+    </clipPath>
+  </defs>
+
+  <image href="assets\portrait.svg" x="28" y="28" width="1016.0" height="1266.0" clip-path="url(#roundedFrame)" />
+
+  <rect x="2" y="2" width="1068.0" height="1318.0" rx="18"
+        fill="none" stroke="#F97316" stroke-width="3"
+        stroke-dasharray="14 8" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="0" to="4757"
+             dur="6s" repeatCount="indefinite" />
+  </rect>
+</svg>
