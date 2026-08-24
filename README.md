@@ -128,6 +128,14 @@
 
 <img src="assets/metrics.isocalendar.svg" width="100%" alt="contribution calendar">
 
+<br/>
+
+<div align="left">
+<img src="assets/spiderman.png" width="20%">
+</div>
+
+<br/>
+
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/Abhiram1106/Abhiram1106/output/snake-dark.svg#gh-dark-mode-only" width="100%">
