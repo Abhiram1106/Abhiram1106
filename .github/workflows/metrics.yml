@@ -15,6 +15,9 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       # ------------------------------------------------------------------ #
       # The 3D isometric contribution calendar (the one from the inspo)
       # ------------------------------------------------------------------ #
@@ -63,3 +66,21 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_indepth: no
           plugin_languages_sections: most-used
+
+      # ------------------------------------------------------------------ #
+      # Composite Spider-Man as a true background layer inside the calendar
+      # SVG (runs after the calendar regenerates, keeps it live + layered)
+      # ------------------------------------------------------------------ #
+      - name: Pull latest before compositing
+        run: git pull --rebase
+
+      - name: Composite calendar background
+        run: python3 scripts/composite_calendar.py --svg assets/metrics.isocalendar.svg --bg-image assets/spiderman.png --opacity 0.18
+
+      - name: Commit composited calendar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/metrics.isocalendar.svg
+          git diff --staged --quiet || git commit -m "chore: composite calendar background"
+          git push
