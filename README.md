@@ -22,67 +22,65 @@
 
 <br/>
 
-<!-- ════════════════════ TECH STACK ════════════════════ -->
+<!-- ════════════════════ TECH STACK (no table, full-width stacked rows) ════════════════════ -->
 
 ## &nbsp;⚙️&nbsp; Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td valign="top" width="50%" align="center">
+<div align="center">
 
-#### &nbsp;Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js&theme=dark" height="38" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" height="45" />
 
-#### &nbsp;Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="38" />
-</p>
+<br/><br/>
 
-#### &nbsp;Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="38" />
-</p>
-<p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" height="45" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="45" />
+<br/>
 <img src="https://img.shields.io/badge/REST-1e293b?style=flat-square&logo=swagger&logoColor=85EA2D" />
 <img src="https://img.shields.io/badge/JWT-1e293b?style=flat-square&logo=jsonwebtokens&logoColor=fff" />
-</p>
 
-#### &nbsp;Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="38" />
-</p>
+<br/><br/>
 
-</td>
-<td valign="top" width="50%" align="center">
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" height="45" />
 
-#### &nbsp;Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" height="38" />
-</p>
+<br/><br/>
 
-#### &nbsp;Concepts
-<p>
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" height="45" />
+
+<br/><br/>
+
+**Concepts**
+<br/>
 <img src="https://img.shields.io/badge/🧩_OOP-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
 <img src="https://img.shields.io/badge/CI%2FCD-1e293b?style=flat-square&logo=githubactions&logoColor=2088FF" />
 <img src="https://img.shields.io/badge/Agile%2FScrum-1e293b?style=flat-square&logo=jira&logoColor=0052CC" />
-</p>
 
-#### &nbsp;Used at Technopose (internship)
-<p>
-<img src="https://skillicons.dev/icons?i=nestjs,postgres,redis,typescript&theme=dark" height="38" />
-</p>
+<br/><br/>
 
-#### &nbsp;🌱 Currently Exploring
-<p>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="38" />
+**Used at Technopose (internship)**
+<br/>
+<img src="https://skillicons.dev/icons?i=nestjs,postgres,redis,typescript&theme=dark" height="45" />
+
+<br/><br/>
+
+**🌱 Currently Exploring**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="45" />
 <img src="https://img.shields.io/badge/🏗️_System_Design-1e293b?style=flat-square&labelColor=1e293b&color=1e293b" />
-</p>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -165,6 +163,7 @@
 </tr>
 </table>
 </div>
+
 
 <br/>
 
